@@ -1,5 +1,7 @@
 ---
 name: pet-character-consistency
+displayName: "Pet Character Consistency (角色一致性)"
+category: "game-asset"
 slug: pet-character-consistency
 description: "Continuous content production for 'pet (especially cat) photo to anthropomorphized character design' that keeps one character from drifting across multiple generations, shots, and materials. Covers freezing the character design fingerprint, reference-image role declaration, height handling for multi-character scenes, dynamic poster and short-video generation, per-frame QA, and outward display-boundary judgment. Use for character design sheets, anchor images, canonical full-body, turnaround three-view, character spec cards, group shots, height-calibrated ensemble photos, character dynamic posters or videos, character consistency maintenance. Triggers: 猫娘, anthropomorphic character, character design, anchor image, canonical body, three-view, group shot, dynamic poster, character consistency, pet character, character spec card."
 agent_created: true
